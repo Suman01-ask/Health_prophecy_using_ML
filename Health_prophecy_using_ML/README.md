@@ -18,3 +18,4 @@ Health prophecy model
 	3.The dataset contains disease as labels and for each disease symptoms are given.
 	
 
+credit :- Sidhardhan
