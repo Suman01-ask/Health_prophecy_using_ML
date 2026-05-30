@@ -37,9 +37,6 @@ Ensure Testing.csv is in your project directory—this is essential for accurate
 Launch the App: 
 streamlit run app.py
 
-Explore the Application
-Head to http://localhost:8501 and start your health journey!
-
 🏥 How to Use
 Select Symptoms: Choose from the sidebar checkboxes.
 Click "Check Now": Get instant predictions on potential health issues.
